@@ -21,7 +21,7 @@ def main():
         filename.write(fileOutput+'\n')
 
 
-    
+
 
 
         print("{0:<10}{1:^10.06f}{2:>10.06f}".format(i,resultX,resultY))
